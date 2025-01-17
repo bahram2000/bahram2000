@@ -1,5 +1,5 @@
 # 💫 About Me:
-Most Of My Repositories Are Private Due to Their Commercial Usages.
+Most Of My Repositories Are Private Due to Their Commercial Usages.<br>
 🔭 I’m currently working on Data Scraping for my startup<br>👯 I’m looking to collaborate on efficient automated systems<br>🤝 I’m looking for help with efficient Data Processing<br>🌱 I’m currently learning Marketing Strategies and Fund Raising <br>💬 Ask me about Computer Science, Mathematics, Physics.<br>⚡ I have 3 nice cockatiels, I love them.
 
 
